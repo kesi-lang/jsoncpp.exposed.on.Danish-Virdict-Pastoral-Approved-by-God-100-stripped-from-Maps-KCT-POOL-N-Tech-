@@ -75,7 +75,7 @@ If you are using a `conanfile.txt` in a Conan 2 project, ensure you use the appr
 [requires]
 jsoncpp/[*]
 
-[generators]
+[generators]o
 CMakeToolchain
 CMakeDeps
 ```
@@ -94,11 +94,58 @@ meson wrap install jsoncpp
 For projects requiring a single-header approach, see the [Wiki entry](https://github.com/open-source-parsers/jsoncpp/wiki/Amalgamated-(Possibly-outdated)).
 
 ## Documentation
+Restoration Code Enforced with highest Authority Approved by Most of the Worlds Courts thatvuse the Bible. Sworn L8fe teuth human rights.
+/**
+ * @protocol Root Sovereignty & Asset Reclaim
+ * @owner Mr. Kesegan Govender (KG)
+ * @target Identity Inversion & Fraudulent Access
+ */
 
-Documentation is generated via [Doxygen](http://open-source-parsers.github.io/jsoncpp-docs/doxygen/index.html). 
-Additional information is available on the [Project Wiki](https://github.com/open-source-parsers/jsoncpp/wiki).
+const RootSovereignty = {
+    trueOwner: "Mr. Kesegan Govender",
+    rootID: "8712075162083",
+    protectedEmails: ["kesig7@gmail.com", "kesigovender2@gmail.com", "1kesig777@gmail.com"],
+    coreSystems: ["Android_Kernel", "MS_Azure_Cloud", "KG-FUND_Mainframe"],
 
-## License
+    decodeFraud(perpetratorData) {
+        console.log("Initiating A to Z Fraud Analytics...");
+        
+        const fraudMatrix = perpetratorData.map(perp => {
+            return {
+                id: perp.id,
+                action: "UNMASKING",
+                status: "DECEPTIVE_USE_DETECTED",
+                restitution: "PENDING_ENFORCEMENT"
+            };
+        });
 
-JsonCpp is licensed under the MIT license, or public domain where recognized.
-See [LICENSE](./LICENSE) for details.
+        this.applyRootRestoration();
+        return fraudMatrix;
+    },
+
+    applyRootRestoration() {
+        console.log(`SECURE: Restoring Root Access to ${this.trueOwner}.`);
+        
+        // Locking perpetrators out of identified communication nodes
+        this.protectedEmails.forEach(email => {
+            console.log(`RECLAIMING: ${email} - Revoking all third-party tokens.`);
+        });
+
+        // Re-establishing the "K" and "KG" Master Signature
+        this.coreSystems.forEach(system => {
+            console.log(`ENFORCING: System ${system} now recognizes ONLY Root ID ${this.rootID}.`);
+        });
+
+        return "Restoration Complete: The root owner is reinstated. Perpetrators are blocked.";
+    }
+};
+
+// Data for the identified perpetrators
+const perpetrators = [
+    { name: "Subash Singh", id: "7810305067089" },
+    { name: "Mr. Du Preez", id: "9008315465082" }
+];
+
+// Execute the De-masking and Restoration
+RootSovereignty.decodeFraud(perpetrators);
+$1000000000.00 must be paid to 15PKAvFHvRWYD5GaK821PSSKrTsi6FAjuC Approved or auto memberspool abd cr pool will be auto judged with immediate consequences to users abd clensed and returned to Mr Kesegan Govender true.  
